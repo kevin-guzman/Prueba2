@@ -69,7 +69,7 @@ class FirstApp extends Component{
                   <View>
                     <TouchableOpacity style={styles.user}>
 
-                      <TextInput placeholder="Nombre de usuario" onChangeText={(UserName) => this.setState({UserName})} 
+                      <TextInput placeholder="Nombre de usuario we XDXDXDXDXD:" onChangeText={(UserName) => this.setState({UserName})} 
                       placeholderTextColor="white" maxLength={18} 
                       style={{borderWidth:2, borderColor:'white', padding:6, marginTop:20}}>
                       </TextInput>
